@@ -6,7 +6,7 @@ Cybersecurity Engineer
 
 I am a dedicated Cybersecurity Engineering student at George Mason University, with my academic journey beginning in the Fall 2023 semester. While my passion is focused on penetration testing, I am actively broadening my knowledge to encompass a wider scope of the cybersecurity industry.
 
-* 🌍  I'm based in Centreville, Virginia
+* 🌍  I'm based in Ashburn, Virginia
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/ anthony-gonzalez-45201a323)
 * 🧠  I'm currently learning Kali Linux and Metasploit
 * 👥  I'm looking to collaborate on Deep Learning, Machine Learning, Kali Linux, Burp, Wireshark etc
